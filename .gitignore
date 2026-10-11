@@ -1,0 +1,8 @@
+data/*.csv
+data/.fail_once_*
+logs/*
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+__pycache__/
+dbt/.user.yml
